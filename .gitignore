@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# iOS / Xcode
+ios/build/
+xcuserdata/
+*.xcuserstate
+DerivedData/
+
+# Android / Gradle
+.gradle/
+.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+*.iml
+captures/
+
+# Signing material
+*.jks
+*.keystore
+*.p12
+*.mobileprovision
+
+# Harness update scratch
+.harness-backup/
+
+# Harness core maintenance binary
+scripts/bin/harness
+scripts/bin/harness.exe
