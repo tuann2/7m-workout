@@ -236,11 +236,14 @@ Thời gian tính theo ngày làm việc, với hai giả định:
 Milestone chỉ đóng khi cả hai app cùng qua một bộ fixture và một checklist.
 
 - [ ] **M0. Spec và nền móng (1–2 ngày).**
-  - Viết `docs/product/`: 72 bài, 22 workout, luật trình phát, Smart Workout, luật đổi cấp, nhắc lịch, schema catalog.
-  - Ghi các quyết định vào `docs/decisions/`.
-  - Thêm `*.xapk` vào `.gitignore`, thêm file `LICENSE`.
-  - Tạo repo GitHub và push.
-  - Tạo emulator Android.
+  - [x] Viết `docs/product/`: 72 bài, 22 workout, luật trình phát, Smart Workout, luật đổi cấp, nhắc lịch, schema catalog (bản nháp chờ duyệt).
+  - [x] Ghi các quyết định 0002–0005 vào `docs/decisions/`.
+  - [x] Thêm `*.xapk` vào `.gitignore`, thêm file `LICENSE`.
+  - [x] Tạo repo `tuann2/7m-workout`, push `main` và nhánh `m0-spec-foundation`, mở draft PR #1 để duyệt spec.
+  - [x] Tạo emulator Android `sevenmin_api35` (Android 15, Pixel 7). App debug mở được trên emulator và hiện "7min Workout". Runbook Android đã cập nhật.
+  - [x] `scripts/validate.sh all` chạy thành công trên bản clone mới của nhánh `m0-spec-foundation` (2026-11-03, 112 giây). Test iOS qua. Build và lint Android qua, chỉ còn cảnh báo `MissingApplicationIcon` đã biết.
+  - [ ] Bạn duyệt spec rồi merge PR #1.
+  - Chuyển sang M1: đổi tên hiển thị "7min Workout" thành "7M Workout Nt0" ở cả hai app, cập nhật runbook theo.
   - Xong khi: spec được duyệt và `scripts/validate.sh all` chạy thành công trên một bản clone mới.
 - [ ] **M1. Catalog và engine (1–2 ngày).**
   - Catalog, script chép catalog, engine Kotlin và Swift, fixture chung.
