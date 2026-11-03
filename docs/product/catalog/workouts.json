@@ -1,0 +1,727 @@
+{
+  "schemaVersion": 1,
+  "workouts": [
+    {
+      "id": "beginner-alternate-7",
+      "order": 1,
+      "name": {
+        "en": "Beginner 7 Minute, Alternate",
+        "vi": "7 phút cho người mới, bài thay thế"
+      },
+      "description": {
+        "en": "Twelve easy moves in one round. A gentle alternative to the original workout.",
+        "vi": "12 động tác dễ trong một vòng. Lựa chọn nhẹ nhàng thay cho bài gốc."
+      },
+      "difficulty": 1,
+      "cycles": 1,
+      "restSeconds": 5,
+      "exercises": [
+        "step-up",
+        "squat",
+        "push-up",
+        "bird-dog",
+        "squat-and-box",
+        "lunge",
+        "triceps-dip",
+        "abdominal-crunch",
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman"
+      ]
+    },
+    {
+      "id": "original-7-minute",
+      "order": 2,
+      "name": {
+        "en": "Original 7 Minute Workout",
+        "vi": "7 Minute Workout gốc"
+      },
+      "description": {
+        "en": "The 12-move circuit from Klika and Jordan's 2013 study: whole body, legs, arms and core in turn.",
+        "vi": "Vòng 12 động tác theo nghiên cứu của Klika và Jordan (2013), lần lượt toàn thân, chân, tay và core."
+      },
+      "difficulty": 1,
+      "cycles": 1,
+      "restSeconds": 5,
+      "exercises": [
+        "jumping-jacks",
+        "wall-sit",
+        "push-up",
+        "abdominal-crunch",
+        "step-up",
+        "squat",
+        "triceps-dip",
+        "plank",
+        "high-knees",
+        "lunge",
+        "push-up-and-rotation",
+        "side-plank"
+      ]
+    },
+    {
+      "id": "eight-minute",
+      "order": 3,
+      "name": {
+        "en": "8 Minute Workout",
+        "vi": "Bài 8 phút"
+      },
+      "description": {
+        "en": "One round with 10 second breaks. Slightly longer and harder than the original.",
+        "vi": "Một vòng, nghỉ 10 giây giữa các bài. Dài và khó hơn bài gốc một chút."
+      },
+      "difficulty": 1,
+      "cycles": 1,
+      "restSeconds": 10,
+      "exercises": [
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman",
+        "high-knees",
+        "chair-split-squat",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "mountain-climbers",
+        "power-squat",
+        "spiderman-push-up",
+        "plank"
+      ]
+    },
+    {
+      "id": "beginner-9-minute",
+      "order": 4,
+      "name": {
+        "en": "Beginner 9 Minute Workout",
+        "vi": "Bài 9 phút cho người mới"
+      },
+      "description": {
+        "en": "Easy moves with longer 15 second breaks between them.",
+        "vi": "Động tác dễ, nghỉ dài hơn: 15 giây giữa các bài."
+      },
+      "difficulty": 1,
+      "cycles": 1,
+      "restSeconds": 15,
+      "exercises": [
+        "step-up",
+        "squat",
+        "push-up",
+        "bird-dog",
+        "squat-and-box",
+        "lunge",
+        "triceps-dip",
+        "abdominal-crunch",
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman"
+      ]
+    },
+    {
+      "id": "first-workout",
+      "order": 5,
+      "name": {
+        "en": "First Workout",
+        "vi": "Buổi tập đầu tiên"
+      },
+      "description": {
+        "en": "The easiest moves, many with a chair or on your knees. Start here if you are new to exercise.",
+        "vi": "Các động tác dễ nhất, nhiều bài có ghế hỗ trợ hoặc quỳ gối. Bắt đầu từ đây nếu bạn mới tập."
+      },
+      "difficulty": 1,
+      "cycles": 1,
+      "restSeconds": 5,
+      "exercises": [
+        "march-in-place",
+        "chair-assist-squat",
+        "kneeling-push-up",
+        "kneeling-plank",
+        "jump-rope-skip",
+        "chair-assist-split-squat",
+        "kneeling-staggered-push-up",
+        "kneeling-side-plank",
+        "stand-and-box",
+        "reverse-lunge",
+        "chair-assist-push-up",
+        "swimmer"
+      ]
+    },
+    {
+      "id": "original-three-rounds",
+      "order": 6,
+      "name": {
+        "en": "Original, Three Rounds",
+        "vi": "Bài gốc, ba vòng"
+      },
+      "description": {
+        "en": "The original 12 moves repeated three times with 10 second breaks.",
+        "vi": "12 động tác của bài gốc, lặp ba vòng, nghỉ 10 giây."
+      },
+      "difficulty": 1,
+      "cycles": 3,
+      "restSeconds": 10,
+      "exercises": [
+        "jumping-jacks",
+        "wall-sit",
+        "push-up",
+        "abdominal-crunch",
+        "step-up",
+        "squat",
+        "triceps-dip",
+        "plank",
+        "high-knees",
+        "lunge",
+        "push-up-and-rotation",
+        "side-plank"
+      ]
+    },
+    {
+      "id": "intermediate-16-minute",
+      "order": 7,
+      "name": {
+        "en": "Intermediate 16 Minute",
+        "vi": "Trung bình 16 phút"
+      },
+      "description": {
+        "en": "Two rounds of moderate moves for people who find the original easy.",
+        "vi": "Hai vòng động tác mức vừa, dành cho người thấy bài gốc đã nhẹ."
+      },
+      "difficulty": 2,
+      "cycles": 2,
+      "restSeconds": 10,
+      "exercises": [
+        "jumping-jacks",
+        "side-lunge",
+        "push-up-and-rotation",
+        "one-leg-bridge",
+        "high-knees",
+        "chair-split-squat",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "side-to-side-hop",
+        "lunge-and-rotation",
+        "one-leg-push-up",
+        "side-plank"
+      ]
+    },
+    {
+      "id": "cardio-21-minute",
+      "order": 8,
+      "name": {
+        "en": "21 Minute Cardio",
+        "vi": "Cardio 21 phút"
+      },
+      "description": {
+        "en": "Three rounds focused on raising your heart rate, with short 5 second breaks.",
+        "vi": "Ba vòng tập trung tăng nhịp tim, nghỉ ngắn 5 giây."
+      },
+      "difficulty": 2,
+      "cycles": 3,
+      "restSeconds": 5,
+      "exercises": [
+        "high-knees",
+        "squat",
+        "push-up",
+        "abdominal-crunch",
+        "mountain-climbers",
+        "side-lunge",
+        "triceps-dip",
+        "side-plank",
+        "side-to-side-shuffle",
+        "lunge",
+        "one-leg-push-up",
+        "superman"
+      ]
+    },
+    {
+      "id": "beginner-plus",
+      "order": 9,
+      "name": {
+        "en": "Beginner Plus",
+        "vi": "Người mới, mức cao hơn"
+      },
+      "description": {
+        "en": "One round of harder moves with long breaks. A bridge from beginner to intermediate.",
+        "vi": "Một vòng động tác khó hơn, nghỉ dài. Bước chuyển từ mức người mới lên mức trung bình."
+      },
+      "difficulty": 2,
+      "cycles": 1,
+      "restSeconds": 15,
+      "exercises": [
+        "mountain-climbers",
+        "power-squat",
+        "spiderman-push-up",
+        "plank",
+        "burpees",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "reverse-plank",
+        "plyo-split-squat",
+        "one-leg-squat",
+        "grasshopper-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "core-workout",
+      "order": 10,
+      "name": {
+        "en": "Core Workout",
+        "vi": "Bài tập core"
+      },
+      "description": {
+        "en": "Three rounds with extra work for the trunk and balance.",
+        "vi": "Ba vòng, chú trọng thân giữa và thăng bằng."
+      },
+      "difficulty": 2,
+      "cycles": 3,
+      "restSeconds": 15,
+      "exercises": [
+        "side-to-side-hop",
+        "one-leg-squat",
+        "push-up-and-rotation",
+        "bird-dog",
+        "mountain-climbers",
+        "lunge-and-rotation",
+        "one-leg-triceps-dip",
+        "one-leg-bridge",
+        "side-to-side-shuffle",
+        "one-leg-squat-touch",
+        "one-leg-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "easy-hard-easy",
+      "order": 11,
+      "name": {
+        "en": "Easy, Hard, Easy",
+        "vi": "Dễ, khó, dễ"
+      },
+      "description": {
+        "en": "36 different moves in three stages. Each stage climbs from easy to hard and back down.",
+        "vi": "36 động tác khác nhau chia ba chặng. Mỗi chặng đi từ dễ lên khó rồi xuống lại."
+      },
+      "difficulty": 2,
+      "cycles": 1,
+      "restSeconds": 5,
+      "exercises": [
+        "step-up",
+        "squat",
+        "push-up",
+        "bird-dog",
+        "jumping-jacks",
+        "side-lunge",
+        "push-up-and-rotation",
+        "one-leg-bridge",
+        "mountain-climbers",
+        "power-squat",
+        "spiderman-push-up",
+        "plank",
+        "high-knees",
+        "chair-split-squat",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "squat-and-box",
+        "lunge",
+        "triceps-dip",
+        "abdominal-crunch",
+        "side-to-side-hop",
+        "lunge-and-rotation",
+        "one-leg-push-up",
+        "side-plank",
+        "burpees",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "reverse-plank",
+        "jumping-jacks",
+        "side-lunge",
+        "push-up-and-rotation",
+        "one-leg-bridge",
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman"
+      ]
+    },
+    {
+      "id": "rotating-levels",
+      "order": 12,
+      "name": {
+        "en": "Rotating Levels",
+        "vi": "Xoay vòng mức khó"
+      },
+      "description": {
+        "en": "36 moves that switch between easy, moderate and hard every few minutes.",
+        "vi": "36 động tác, cứ vài phút lại đổi giữa dễ, vừa và khó."
+      },
+      "difficulty": 2,
+      "cycles": 1,
+      "restSeconds": 10,
+      "exercises": [
+        "step-up",
+        "squat",
+        "push-up",
+        "bird-dog",
+        "jumping-jacks",
+        "side-lunge",
+        "push-up-and-rotation",
+        "one-leg-bridge",
+        "mountain-climbers",
+        "power-squat",
+        "spiderman-push-up",
+        "plank",
+        "squat-and-box",
+        "lunge",
+        "triceps-dip",
+        "abdominal-crunch",
+        "high-knees",
+        "chair-split-squat",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "burpees",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "reverse-plank",
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman",
+        "side-to-side-hop",
+        "lunge-and-rotation",
+        "one-leg-push-up",
+        "side-plank",
+        "plyo-split-squat",
+        "one-leg-squat",
+        "grasshopper-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "strength-circuit",
+      "order": 13,
+      "name": {
+        "en": "Strength Circuit",
+        "vi": "Vòng sức mạnh"
+      },
+      "description": {
+        "en": "Three rounds of demanding strength moves with 15 second breaks.",
+        "vi": "Ba vòng động tác sức mạnh nặng, nghỉ 15 giây."
+      },
+      "difficulty": 2,
+      "cycles": 3,
+      "restSeconds": 15,
+      "exercises": [
+        "mountain-climbers",
+        "one-leg-squat",
+        "grasshopper-push-up",
+        "abdominal-crunch",
+        "step-up",
+        "wall-sit",
+        "one-leg-push-up",
+        "reverse-plank",
+        "jumping-jacks",
+        "chair-split-squat",
+        "hindu-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "advanced-mix-21",
+      "order": 14,
+      "name": {
+        "en": "Advanced Mix 21 Minute",
+        "vi": "Tổng hợp nâng cao 21 phút"
+      },
+      "description": {
+        "en": "Three rounds built from a separate set of 12 moderate moves.",
+        "vi": "Ba vòng gồm 12 động tác mức vừa không có trong các bài khác."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 5,
+      "exercises": [
+        "1-2-box-and-kick",
+        "reverse-lunge-and-knee-lift",
+        "power-push-up",
+        "reverse-crunch-and-hug",
+        "skater",
+        "one-leg-squat-hops",
+        "downward-dog-grasshopper",
+        "scissor-kicks",
+        "lunge-touch-and-kick",
+        "one-leg-deadlift",
+        "diamond-push-up",
+        "v-sit-twist"
+      ]
+    },
+    {
+      "id": "advanced-21-minute",
+      "order": 15,
+      "name": {
+        "en": "Advanced 21 Minute",
+        "vi": "Nâng cao 21 phút"
+      },
+      "description": {
+        "en": "Three rounds of hard moves with short breaks. For experienced exercisers.",
+        "vi": "Ba vòng động tác khó, nghỉ ngắn. Dành cho người đã tập lâu."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 5,
+      "exercises": [
+        "mountain-climbers",
+        "power-squat",
+        "spiderman-push-up",
+        "plank",
+        "burpees",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "reverse-plank",
+        "plyo-split-squat",
+        "one-leg-squat",
+        "grasshopper-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "expert-21-minute",
+      "order": 16,
+      "name": {
+        "en": "Expert 21 Minute",
+        "vi": "Chuyên sâu 21 phút"
+      },
+      "description": {
+        "en": "The hardest set of moves in the app, three rounds with short breaks.",
+        "vi": "Bộ động tác khó nhất trong app, ba vòng, nghỉ ngắn."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 5,
+      "exercises": [
+        "squat-thrusts",
+        "one-leg-power-squat",
+        "chair-decline-push-up",
+        "advanced-bird-dog",
+        "drop-and-touch",
+        "long-jumps",
+        "bird-dog-push-up",
+        "side-plank-crunch",
+        "lateral-drop-and-touch",
+        "one-leg-wall-sit",
+        "chair-pike-push-up",
+        "windscreen-wipers"
+      ]
+    },
+    {
+      "id": "power-24-minute",
+      "order": 17,
+      "name": {
+        "en": "24 Minute Power",
+        "vi": "Sức bật 24 phút"
+      },
+      "description": {
+        "en": "Three rounds with jumps and explosive moves.",
+        "vi": "Ba vòng có nhiều động tác bật nhảy và bùng nổ."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 10,
+      "exercises": [
+        "burpees",
+        "chair-split-squat",
+        "push-up-and-rotation",
+        "superman",
+        "plyo-split-squat",
+        "side-lunge",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "side-to-side-hop",
+        "power-squat",
+        "staggered-push-up",
+        "abdominal-crunch"
+      ]
+    },
+    {
+      "id": "advanced-progression",
+      "order": 18,
+      "name": {
+        "en": "Advanced Progression",
+        "vi": "Tăng dần nâng cao"
+      },
+      "description": {
+        "en": "Groups of moves that get harder stage by stage.",
+        "vi": "Các nhóm động tác khó dần lên qua từng chặng."
+      },
+      "difficulty": 3,
+      "cycles": 2,
+      "restSeconds": 10,
+      "exercises": [
+        "squat-and-box",
+        "lunge",
+        "triceps-dip",
+        "abdominal-crunch",
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman",
+        "high-knees",
+        "chair-split-squat",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "side-to-side-hop",
+        "lunge-and-rotation",
+        "one-leg-push-up",
+        "side-plank",
+        "burpees",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "reverse-plank",
+        "plyo-split-squat",
+        "one-leg-squat",
+        "grasshopper-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "power-and-balance",
+      "order": 19,
+      "name": {
+        "en": "Power and Balance",
+        "vi": "Sức bật và thăng bằng"
+      },
+      "description": {
+        "en": "Three rounds mixing jumps, one-leg moves and push-up variations.",
+        "vi": "Ba vòng xen kẽ bật nhảy, động tác một chân và các kiểu hít đất."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 10,
+      "exercises": [
+        "side-to-side-shuffle",
+        "power-squat",
+        "spiderman-push-up",
+        "one-leg-bridge",
+        "squat-and-box",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "bicycle-crunch",
+        "side-to-side-hop",
+        "chair-split-squat",
+        "grasshopper-push-up",
+        "superman"
+      ]
+    },
+    {
+      "id": "sports-conditioning",
+      "order": 20,
+      "name": {
+        "en": "Sports Conditioning",
+        "vi": "Thể lực thể thao"
+      },
+      "description": {
+        "en": "Three rounds of quick moves that change direction, useful before team sports.",
+        "vi": "Ba vòng động tác nhanh, đổi hướng liên tục, hợp để chuẩn bị cho các môn thể thao đồng đội."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 5,
+      "exercises": [
+        "high-knees",
+        "side-lunge",
+        "grasshopper-push-up",
+        "plank",
+        "burpees",
+        "lunge-and-rotation",
+        "spiderman-push-up",
+        "bicycle-crunch",
+        "side-to-side-shuffle",
+        "one-leg-squat-touch",
+        "push-up-and-rotation",
+        "side-plank"
+      ]
+    },
+    {
+      "id": "endurance-circuit",
+      "order": 21,
+      "name": {
+        "en": "Endurance Circuit",
+        "vi": "Vòng sức bền"
+      },
+      "description": {
+        "en": "Three rounds of mostly hard moves with 10 second breaks.",
+        "vi": "Ba vòng, phần lớn là động tác khó, nghỉ 10 giây."
+      },
+      "difficulty": 3,
+      "cycles": 3,
+      "restSeconds": 10,
+      "exercises": [
+        "mountain-climbers",
+        "one-leg-squat",
+        "one-leg-push-up",
+        "bird-dog",
+        "burpees",
+        "lunge-and-rotation",
+        "one-leg-triceps-dip",
+        "reverse-plank",
+        "plyo-split-squat",
+        "side-lunge",
+        "staggered-push-up",
+        "full-side-plank"
+      ]
+    },
+    {
+      "id": "mix-36",
+      "order": 22,
+      "name": {
+        "en": "36 Move Mix",
+        "vi": "Tổng hợp 36 động tác"
+      },
+      "description": {
+        "en": "One long round where no move repeats.",
+        "vi": "Một vòng dài, không động tác nào lặp lại."
+      },
+      "difficulty": 3,
+      "cycles": 1,
+      "restSeconds": 10,
+      "exercises": [
+        "step-up",
+        "squat",
+        "push-up",
+        "bird-dog",
+        "squat-and-box",
+        "lunge",
+        "triceps-dip",
+        "abdominal-crunch",
+        "side-to-side-shuffle",
+        "wall-sit",
+        "staggered-push-up",
+        "superman",
+        "jumping-jacks",
+        "side-lunge",
+        "push-up-and-rotation",
+        "one-leg-bridge",
+        "high-knees",
+        "chair-split-squat",
+        "one-leg-triceps-dip",
+        "bicycle-crunch",
+        "side-to-side-hop",
+        "lunge-and-rotation",
+        "one-leg-push-up",
+        "side-plank",
+        "mountain-climbers",
+        "power-squat",
+        "spiderman-push-up",
+        "plank",
+        "burpees",
+        "one-leg-squat-touch",
+        "hindu-push-up",
+        "reverse-plank",
+        "plyo-split-squat",
+        "one-leg-squat",
+        "grasshopper-push-up",
+        "full-side-plank"
+      ]
+    }
+  ]
+}
