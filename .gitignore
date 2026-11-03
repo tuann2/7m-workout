@@ -29,3 +29,12 @@ captures/
 # Harness core maintenance binary
 scripts/bin/harness
 scripts/bin/harness.exe
+
+# Third-party app packages used only as reference (never commit)
+*.xapk
+
+# Raw content inputs that must not be redistributed (licensed assets, raw captures)
+content/raw/
+
+# Local agent worktrees
+.claude/worktrees/

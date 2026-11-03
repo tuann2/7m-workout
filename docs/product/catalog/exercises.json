@@ -1,0 +1,1035 @@
+{
+  "schemaVersion": 1,
+  "exercises": [
+    {
+      "id": "jumping-jacks",
+      "name": {
+        "en": "Jumping Jacks",
+        "vi": "Bật nhảy dang tay chân"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "step-up",
+      "name": {
+        "en": "Step-Up",
+        "vi": "Bước lên ghế"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "high-knees",
+      "name": {
+        "en": "High Knees",
+        "vi": "Chạy nâng cao gối"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "mountain-climbers",
+      "name": {
+        "en": "Mountain Climbers",
+        "vi": "Leo núi"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "burpees",
+      "name": {
+        "en": "Burpees",
+        "vi": "Burpee"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "plyo-split-squat",
+      "name": {
+        "en": "Plyo Split Squat",
+        "vi": "Split squat bật nhảy đổi chân"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "side-to-side-shuffle",
+      "name": {
+        "en": "Side-to-Side Shuffle",
+        "vi": "Lướt ngang"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "squat-and-box",
+      "name": {
+        "en": "Squat & Box",
+        "vi": "Squat kết hợp đấm"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "side-to-side-hop",
+      "name": {
+        "en": "Side-to-Side Hop",
+        "vi": "Bật nhảy ngang"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "push-up",
+      "name": {
+        "en": "Push-Up",
+        "vi": "Hít đất"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "triceps-dip",
+      "name": {
+        "en": "Triceps Dip",
+        "vi": "Dip tay sau với ghế"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "push-up-and-rotation",
+      "name": {
+        "en": "Push-Up & Rotation",
+        "vi": "Hít đất xoay người"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-push-up",
+      "name": {
+        "en": "One-Leg Push-Up",
+        "vi": "Hít đất một chân"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-triceps-dip",
+      "name": {
+        "en": "One-Leg Triceps Dip",
+        "vi": "Dip tay sau một chân"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "staggered-push-up",
+      "name": {
+        "en": "Staggered Push-Up",
+        "vi": "Hít đất tay so le"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "spiderman-push-up",
+      "name": {
+        "en": "Spiderman Push-Up",
+        "vi": "Hít đất người nhện"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "hindu-push-up",
+      "name": {
+        "en": "Hindu Push-Up",
+        "vi": "Hít đất kiểu Hindu"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "grasshopper-push-up",
+      "name": {
+        "en": "Grasshopper Push-Up",
+        "vi": "Hít đất châu chấu"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "abdominal-crunch",
+      "name": {
+        "en": "Abdominal Crunch",
+        "vi": "Gập bụng"
+      },
+      "muscleGroup": "core",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "plank",
+      "name": {
+        "en": "Plank",
+        "vi": "Plank"
+      },
+      "muscleGroup": "core",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": true,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "side-plank",
+      "name": {
+        "en": "Side Plank",
+        "vi": "Plank nghiêng"
+      },
+      "muscleGroup": "core",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": true,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "bird-dog",
+      "name": {
+        "en": "Bird Dog",
+        "vi": "Bird dog (duỗi chéo tay chân)"
+      },
+      "muscleGroup": "core",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "reverse-plank",
+      "name": {
+        "en": "Reverse Plank",
+        "vi": "Plank ngửa"
+      },
+      "muscleGroup": "core",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": true,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "full-side-plank",
+      "name": {
+        "en": "Full Side Plank",
+        "vi": "Plank nghiêng thẳng tay"
+      },
+      "muscleGroup": "core",
+      "difficulty": 3,
+      "unilateral": true,
+      "hold": true,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-bridge",
+      "name": {
+        "en": "One-Leg Bridge",
+        "vi": "Nâng hông một chân"
+      },
+      "muscleGroup": "core",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "bicycle-crunch",
+      "name": {
+        "en": "Bicycle Crunch",
+        "vi": "Gập bụng đạp xe"
+      },
+      "muscleGroup": "core",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "superman",
+      "name": {
+        "en": "Superman",
+        "vi": "Superman (nằm sấp nâng tay chân)"
+      },
+      "muscleGroup": "core",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "wall-sit",
+      "name": {
+        "en": "Wall Sit",
+        "vi": "Ngồi tựa tường"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": true,
+      "impact": "low",
+      "equipment": [
+        "wall"
+      ],
+      "media": null
+    },
+    {
+      "id": "squat",
+      "name": {
+        "en": "Squat",
+        "vi": "Squat"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "lunge",
+      "name": {
+        "en": "Lunge",
+        "vi": "Lunge (bước chùng chân)"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-squat",
+      "name": {
+        "en": "One-Leg Squat",
+        "vi": "Squat một chân"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 3,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "lunge-and-rotation",
+      "name": {
+        "en": "Lunge & Rotation",
+        "vi": "Lunge xoay người"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "side-lunge",
+      "name": {
+        "en": "Side Lunge",
+        "vi": "Lunge ngang"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "power-squat",
+      "name": {
+        "en": "Power Squat",
+        "vi": "Squat bật nhảy"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-squat-touch",
+      "name": {
+        "en": "One-Leg Squat Touch",
+        "vi": "Squat một chân chạm sàn"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 3,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "chair-split-squat",
+      "name": {
+        "en": "Chair Split Squat",
+        "vi": "Split squat gác chân lên ghế"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "march-in-place",
+      "name": {
+        "en": "March In Place",
+        "vi": "Bước tại chỗ"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "chair-assist-squat",
+      "name": {
+        "en": "Chair-Assist Squat",
+        "vi": "Squat có ghế hỗ trợ"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "kneeling-push-up",
+      "name": {
+        "en": "Kneeling Push-Up",
+        "vi": "Hít đất quỳ gối"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "kneeling-plank",
+      "name": {
+        "en": "Kneeling Plank",
+        "vi": "Plank quỳ gối"
+      },
+      "muscleGroup": "core",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": true,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "jump-rope-skip",
+      "name": {
+        "en": "Jump Rope Skip",
+        "vi": "Nhảy dây không dây"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "chair-assist-split-squat",
+      "name": {
+        "en": "Chair-Assist Split Squat",
+        "vi": "Split squat có ghế hỗ trợ"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 1,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "kneeling-staggered-push-up",
+      "name": {
+        "en": "Kneeling Staggered Push-Up",
+        "vi": "Hít đất quỳ gối tay so le"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "kneeling-side-plank",
+      "name": {
+        "en": "Kneeling Side Plank",
+        "vi": "Plank nghiêng quỳ gối"
+      },
+      "muscleGroup": "core",
+      "difficulty": 1,
+      "unilateral": true,
+      "hold": true,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "stand-and-box",
+      "name": {
+        "en": "Stand & Box",
+        "vi": "Đứng đấm"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "reverse-lunge",
+      "name": {
+        "en": "Reverse Lunge",
+        "vi": "Lunge lùi"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "chair-assist-push-up",
+      "name": {
+        "en": "Chair-Assist Push-Up",
+        "vi": "Hít đất tựa ghế"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "swimmer",
+      "name": {
+        "en": "Swimmer",
+        "vi": "Bơi cạn (nằm sấp đập tay chân)"
+      },
+      "muscleGroup": "core",
+      "difficulty": 1,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "1-2-box-and-kick",
+      "name": {
+        "en": "1-2 Box & Kick",
+        "vi": "Đấm 1-2 và đá"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "reverse-lunge-and-knee-lift",
+      "name": {
+        "en": "Reverse Lunge & Knee Lift",
+        "vi": "Lunge lùi nâng gối"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "power-push-up",
+      "name": {
+        "en": "Power Push-Up",
+        "vi": "Hít đất bật"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "reverse-crunch-and-hug",
+      "name": {
+        "en": "Reverse Crunch & Hug",
+        "vi": "Gập bụng ngược ôm gối"
+      },
+      "muscleGroup": "core",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "skater",
+      "name": {
+        "en": "Skater",
+        "vi": "Bật ngang kiểu trượt băng"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-squat-hops",
+      "name": {
+        "en": "One-Leg Squat Hops",
+        "vi": "Squat một chân bật nhảy"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "downward-dog-grasshopper",
+      "name": {
+        "en": "Downward Dog Grasshopper",
+        "vi": "Chó úp mặt kết hợp châu chấu"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "scissor-kicks",
+      "name": {
+        "en": "Scissor Kicks",
+        "vi": "Đá chân cắt kéo"
+      },
+      "muscleGroup": "core",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "lunge-touch-and-kick",
+      "name": {
+        "en": "Lunge, Touch & Kick",
+        "vi": "Lunge chạm sàn và đá"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-deadlift",
+      "name": {
+        "en": "One-Leg Deadlift",
+        "vi": "Deadlift một chân"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 2,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "diamond-push-up",
+      "name": {
+        "en": "Diamond Push-Up",
+        "vi": "Hít đất kim cương"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "v-sit-twist",
+      "name": {
+        "en": "V Sit Twist",
+        "vi": "Ngồi chữ V xoay người"
+      },
+      "muscleGroup": "core",
+      "difficulty": 2,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "squat-thrusts",
+      "name": {
+        "en": "Squat Thrusts",
+        "vi": "Squat thrust"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-power-squat",
+      "name": {
+        "en": "One-Leg Power Squat",
+        "vi": "Squat bật nhảy một chân"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 3,
+      "unilateral": true,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "chair-decline-push-up",
+      "name": {
+        "en": "Chair Decline Push-Up",
+        "vi": "Hít đất gác chân lên ghế"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "advanced-bird-dog",
+      "name": {
+        "en": "Advanced Bird Dog",
+        "vi": "Bird dog nâng cao"
+      },
+      "muscleGroup": "core",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "drop-and-touch",
+      "name": {
+        "en": "Drop & Touch",
+        "vi": "Hạ người chạm sàn"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "long-jumps",
+      "name": {
+        "en": "Long Jumps",
+        "vi": "Bật xa"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "high",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "bird-dog-push-up",
+      "name": {
+        "en": "Bird Dog Push-Up",
+        "vi": "Hít đất kết hợp bird dog"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "side-plank-crunch",
+      "name": {
+        "en": "Side Plank Crunch",
+        "vi": "Plank nghiêng gập bụng"
+      },
+      "muscleGroup": "core",
+      "difficulty": 3,
+      "unilateral": true,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "lateral-drop-and-touch",
+      "name": {
+        "en": "Lateral Drop & Touch",
+        "vi": "Hạ người chạm sàn sang ngang"
+      },
+      "muscleGroup": "total-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    },
+    {
+      "id": "one-leg-wall-sit",
+      "name": {
+        "en": "One-Leg Wall Sit",
+        "vi": "Ngồi tựa tường một chân"
+      },
+      "muscleGroup": "lower-body",
+      "difficulty": 3,
+      "unilateral": true,
+      "hold": true,
+      "impact": "low",
+      "equipment": [
+        "wall"
+      ],
+      "media": null
+    },
+    {
+      "id": "chair-pike-push-up",
+      "name": {
+        "en": "Chair Pike Push-Up",
+        "vi": "Hít đất pike gác chân lên ghế"
+      },
+      "muscleGroup": "upper-body",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [
+        "chair"
+      ],
+      "media": null
+    },
+    {
+      "id": "windscreen-wipers",
+      "name": {
+        "en": "Windscreen Wipers",
+        "vi": "Gạt nước (nằm ngửa xoay chân)"
+      },
+      "muscleGroup": "core",
+      "difficulty": 3,
+      "unilateral": false,
+      "hold": false,
+      "impact": "low",
+      "equipment": [],
+      "media": null
+    }
+  ]
+}

@@ -25,10 +25,27 @@ adb shell am start -n vn.io.nt0.sevenminworkout/.MainActivity
 
 Or open `android/` in Android Studio and run the `app` configuration.
 
+Project emulator (created 2026-11-03 from the installed
+`system-images;android-35;google_apis;arm64-v8a`). Do not use other AVDs on
+the machine; they belong to other projects.
+
+```bash
+SDK="$ANDROID_HOME"
+# one-time creation
+echo no | "$SDK/cmdline-tools/latest/bin/avdmanager" create avd -n sevenmin_api35 \
+  -k "system-images;android-35;google_apis;arm64-v8a" -d pixel_7
+# headless start, then wait for boot
+"$SDK/emulator/emulator" -avd sevenmin_api35 -no-window -no-audio -no-snapshot -no-boot-anim &
+adb wait-for-device shell 'while [ "$(getprop sys.boot_completed)" != "1" ]; do sleep 2; done'
+```
+
 ## Readiness
 
 `assembleDebug` ends with `BUILD SUCCESSFUL` and produces `app-debug.apk`.
-On a device, the screen shows "7min Workout".
+On a device, the screen shows "7min Workout". Verified on 2026-11-03 on
+`sevenmin_api35`: the emulator booted in about 20 s, `am start -W` reported
+`LaunchState: COLD` and `TotalTime` about 1.5 s, and `uiautomator dump`
+contained `text="7min Workout"`.
 
 ## Deterministic State
 
@@ -47,7 +64,8 @@ adb logcat --pid="$(adb shell pidof vn.io.nt0.sevenminworkout)"
 
 ## Ownership And Cleanup
 
-`./gradlew clean` removes build output. Stop only emulators this run started.
+`./gradlew clean` removes build output. Stop only emulators this run started,
+for example `adb -s emulator-5554 emu kill`.
 
 ## Validation
 
@@ -56,8 +74,7 @@ Lint reports are written to `android/app/build/reports/`.
 
 ## Unknowns
 
-- On-device launch is unverified: no Android Virtual Device existed when the
-  project was created (2026-11-02).
+- Launch is verified on the emulator only; no physical device has run the app.
 - No unit tests exist yet; `testDebugUnitTest` currently runs nothing.
 - Release signing key and launcher icon (lint warns `MissingApplicationIcon`).
 - No CI pipeline exists yet.

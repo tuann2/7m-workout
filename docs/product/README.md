@@ -10,10 +10,19 @@ files after actual product domains, such as `overview.md`, `billing.md`,
 
 ## Current Product Contract
 
-No consumer-specific product contract is shipped in this generic directory.
-The upstream `repository-harness` contract lives in the root README, current
-workflow and architecture documents, lasting decisions, implementation, and
-executable tests.
+Draft awaiting owner approval (plan milestone M0). Documents are written in
+Vietnamese; catalog JSON keys are English.
+
+| Document | Domain |
+| --- | --- |
+| [overview.md](overview.md) | Product purpose, principles, v1 scope |
+| [catalog.md](catalog.md) | Exercises, workouts, Smart Workout templates, catalog schema and checks |
+| [workout-player.md](workout-player.md) | Session structure, timings, audio cues, controls, interruptions |
+| [smart-workout.md](smart-workout.md) | Fitness levels, Smart Workout generation, feedback, level changes |
+| [personal-data.md](personal-data.md) | Likes, custom workouts, history, backup, export, settings |
+| [reminders.md](reminders.md) | Workout and inactivity reminders |
+| [content.md](content.md) | 3D illustrations, AI voice, text, provenance |
+| [catalog/](catalog/) | Shared catalog JSON read by both apps |
 
 ## Update Rule
 

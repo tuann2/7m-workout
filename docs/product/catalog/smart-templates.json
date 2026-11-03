@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "templates": [
+    {
+      "id": "level1-1",
+      "level": 1,
+      "cycles": 1,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 9,
+        "moderate": 3,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level1-2",
+      "level": 1,
+      "cycles": 2,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 9,
+        "moderate": 3,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level1-3",
+      "level": 1,
+      "cycles": 1,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 9,
+        "moderate": 3,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level1-4",
+      "level": 1,
+      "cycles": 2,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 9,
+        "moderate": 3,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level2-1",
+      "level": 2,
+      "cycles": 1,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 6,
+        "moderate": 6,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level2-2",
+      "level": 2,
+      "cycles": 2,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 6,
+        "moderate": 6,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level2-3",
+      "level": 2,
+      "cycles": 3,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 6,
+        "moderate": 6,
+        "hard": 0
+      }
+    },
+    {
+      "id": "level3-1",
+      "level": 3,
+      "cycles": 2,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 4,
+        "moderate": 4,
+        "hard": 4
+      }
+    },
+    {
+      "id": "level3-2",
+      "level": 3,
+      "cycles": 1,
+      "restSeconds": 5,
+      "counts": {
+        "easy": 4,
+        "moderate": 4,
+        "hard": 4
+      }
+    },
+    {
+      "id": "level3-3",
+      "level": 3,
+      "cycles": 2,
+      "restSeconds": 5,
+      "counts": {
+        "easy": 4,
+        "moderate": 4,
+        "hard": 4
+      }
+    },
+    {
+      "id": "level4-1",
+      "level": 4,
+      "cycles": 1,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 0,
+        "moderate": 6,
+        "hard": 6
+      }
+    },
+    {
+      "id": "level4-2",
+      "level": 4,
+      "cycles": 2,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 0,
+        "moderate": 6,
+        "hard": 6
+      }
+    },
+    {
+      "id": "level4-3",
+      "level": 4,
+      "cycles": 3,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 0,
+        "moderate": 6,
+        "hard": 6
+      }
+    },
+    {
+      "id": "level4-4",
+      "level": 4,
+      "cycles": 2,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 0,
+        "moderate": 6,
+        "hard": 6
+      }
+    },
+    {
+      "id": "level4-5",
+      "level": 4,
+      "cycles": 2,
+      "restSeconds": 5,
+      "counts": {
+        "easy": 0,
+        "moderate": 6,
+        "hard": 6
+      }
+    },
+    {
+      "id": "level5-1",
+      "level": 5,
+      "cycles": 2,
+      "restSeconds": 5,
+      "counts": {
+        "easy": 0,
+        "moderate": 3,
+        "hard": 9
+      }
+    },
+    {
+      "id": "level5-2",
+      "level": 5,
+      "cycles": 3,
+      "restSeconds": 15,
+      "counts": {
+        "easy": 0,
+        "moderate": 3,
+        "hard": 9
+      }
+    },
+    {
+      "id": "level5-3",
+      "level": 5,
+      "cycles": 3,
+      "restSeconds": 10,
+      "counts": {
+        "easy": 0,
+        "moderate": 3,
+        "hard": 9
+      }
+    },
+    {
+      "id": "level5-4",
+      "level": 5,
+      "cycles": 3,
+      "restSeconds": 5,
+      "counts": {
+        "easy": 0,
+        "moderate": 3,
+        "hard": 9
+      }
+    }
+  ]
+}

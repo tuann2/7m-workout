@@ -30,4 +30,5 @@ decision into `docs/decisions/`; keep task-local choices in the plan.
 
 ## Active Plans
 
-No active execution plans are currently indexed.
+- [7M Workout Nt0 v1](active/7m-workout-nt0-v1.md): draft awaiting review;
+  M0 not started.
